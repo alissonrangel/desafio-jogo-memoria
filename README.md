@@ -6,3 +6,6 @@
 - Mudei as cores do container;
 - Adicionei sons indicando acerto ou erro;
 - Melhorei a jogabilidade, impedindo que a mesma carta seja selecionada duas vezes ao ser clicada seguidamente com o mouse.
+
+### Imagem do jogo
+<img src="./src/images/jogomem.png" width="100%" />
